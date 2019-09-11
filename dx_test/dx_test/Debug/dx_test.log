@@ -1,7 +1,1 @@
-﻿  CSVReader.cpp
-  Player.cpp
-  コードを生成中...
-  main.cpp
-d:\september_2week\dx_test\dx_test\main.cpp(25): warning C4715: 'WinMain': 値を返さないコントロール パスがあります。
-  LINK : 前回のインクリメンタル リンクで D:\September_2Week\dx_test\Debug\dx_test.exe が見つからなかったか、ビルドされませんでした。フル リンクを行います。
-  dx_test.vcxproj -> D:\September_2Week\dx_test\Debug\dx_test.exe
+﻿  dx_test.vcxproj -> D:\September_2Week\dx_test\Debug\dx_test.exe
