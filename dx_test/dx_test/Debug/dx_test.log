@@ -1,0 +1,4 @@
+﻿  CSVReader.cpp
+  main.cpp
+c:\users\terumitange\desktop\dx_test\dx_test\main.cpp(25): warning C4715: 'WinMain': 値を返さないコントロール パスがあります。
+  dx_test.vcxproj -> C:\Users\terumitange\Desktop\dx_test\Debug\dx_test.exe
